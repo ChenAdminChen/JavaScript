@@ -1,7 +1,15 @@
 [
     {
+        "merged": "E:\\blog\\data\\flutter-demo\\hello_world\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\blog\\data\\flutter-demo\\hello_world\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\flutter\\examples\\hello_world\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "D:\\flutter\\examples\\hello_world\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\blog\\data\\flutter-demo\\hello_world\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\blog\\data\\flutter-demo\\hello_world\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\flutter\\examples\\hello_world\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
@@ -12,11 +20,23 @@
         "source": "D:\\flutter\\examples\\hello_world\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "E:\\blog\\data\\flutter-demo\\hello_world\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\blog\\data\\flutter-demo\\hello_world\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\flutter\\examples\\hello_world\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "D:\\flutter\\examples\\hello_world\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
+        "merged": "E:\\blog\\data\\flutter-demo\\hello_world\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\blog\\data\\flutter-demo\\hello_world\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\flutter\\examples\\hello_world\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "D:\\flutter\\examples\\hello_world\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\blog\\data\\flutter-demo\\hello_world\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\blog\\data\\flutter-demo\\hello_world\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

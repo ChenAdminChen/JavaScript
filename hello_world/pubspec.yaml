@@ -64,4 +64,6 @@ flutter:
   uses-material-design: true
   assets:
    - assets/images/home.png
+   - assets/images/bank.png
+   - assets/images/shop.png
 
